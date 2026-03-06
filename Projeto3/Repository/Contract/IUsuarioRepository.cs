@@ -1,0 +1,17 @@
+﻿using Projeto3.Models;
+
+namespace Projeto3.Repository.Contract
+{
+    public class IUsuarioRepository
+    {
+        IEnumerable<Usuario> ObterTodosUsuarios();
+
+        void Cadastrar(Usuario usuario);
+
+        void Atualizar(Usuario usuario);
+
+        Usuario ObterUsuario(int Id);
+
+        void Excluir(int Id);
+    }
+}
