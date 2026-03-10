@@ -1,7 +1,12 @@
+using Projeto3.Repository.Contract;
+using Projeto3.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IUsuarioRepository, UsuarioReposytorio>();
 
 var app = builder.Build();
 

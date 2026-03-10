@@ -2,7 +2,7 @@
 
 namespace Projeto3.Repository.Contract
 {
-    public class IUsuarioRepository
+    public interface IUsuarioRepository
     {
         IEnumerable<Usuario> ObterTodosUsuarios();
 
