@@ -14,7 +14,7 @@ namespace Projeto3.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            return View(_usuarioRepository.ObterTodosUsuarios());
         }
         [HttpGet]
         public IActionResult CadastrarUsuario()
