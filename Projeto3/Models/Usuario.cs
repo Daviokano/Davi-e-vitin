@@ -10,11 +10,11 @@ namespace Projeto3.Models
 
         [Display(Name = "Nome Completo")]
         [Required(ErrorMessage = "O campo nome é obrigatório")]
-        public required string nomeUsu { get; set; }
+        public string? nomeUsu { get; set; }
 
         [Display(Name = "Cargo")]
         [Required(ErrorMessage = "O campo Cargo é obrigatório")]
-        public required string Cargo { get; set; }
+        public string? Cargo { get; set; }
 
         [Display(Name = "Nascimento")]
         [Required(ErrorMessage = "O campo nascimento é obrigatório")]

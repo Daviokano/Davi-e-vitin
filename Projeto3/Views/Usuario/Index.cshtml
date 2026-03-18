@@ -27,9 +27,19 @@
             <td>@usuario.Cargo</td>
             <td>@usuario.DataNasc.ToString("dd/MM/yyyy")</td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+
+                <Button type="button" class="bnt bnt-warning">
+                    @Html.ActionLink("Editar", "AtualizarUsuario", new { id = usuario.IdUsu }) |
+                </Button>
+
+                <Button type="button" class="bnt bnt-secondary">
+                    @Html.ActionLink("Detalhes", "DetalhesUsuario", new { id = usuario.IdUsu }) |
+                </Button>
+
+                <Button type="button" class="bnt bnt-danger">
+                    @Html.ActionLink("Excluir", "ExcluirUsuario", new { id = usuario.IdUsu }, new { onclick = "return confirm('Deseja realmente desativar?');" })
+                </Button>
+
             </td>
         </tr>
 }

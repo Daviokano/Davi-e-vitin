@@ -15,7 +15,14 @@ namespace Projeto3.Repository
 
         public void Atualizar(Usuario usuario)
         {
-            throw new NotImplementedException();
+           using (var conexao = new MySqlConnection(_conexaoMySQl))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("Update usuario set nomeUsu=@nomeUsu, Cargo=@Cargo, " +
+                    " DataNasc=@DataNasc Where IdUsu=@IdUsu", conexao);
+
+                cmd.
+            }
         }
 
         public void Cadastrar(Usuario usuario)
@@ -74,7 +81,24 @@ namespace Projeto3.Repository
             using (var conexao = new MySqlConnection(_conexaoMySQl))
             {
                 conexao.Open();
-                MySqlCommand cmd = new MySqlCommand("Se")
+                MySqlCommand cmd = new MySqlCommand("SELECT * from usuario " +
+                    " where IdUsu=@IdUsu", conexao);
+
+                cmd.Parameters.AddWithValue("@IdUsu", Id);
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                MySqlDataReader dr;
+
+                Usuario usuario = new Usuario();
+                dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
+                while (dr.Read())
+                {
+                    usuario.IdUsu = Convert.ToInt32(dr["IdUsu"]);
+                    usuario.nomeUsu = (string)(dr["nomeUsu"]);
+                    usuario.Cargo = (string)(dr["Cargo"]);
+                    usuario.DataNasc = Convert.ToDateTime(dr["DataNasc"]);
+                }
+                return usuario;
             }
         }
     }
