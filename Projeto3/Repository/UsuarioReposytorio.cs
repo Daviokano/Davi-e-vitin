@@ -1,4 +1,5 @@
-﻿using MySql.Data.MySqlClient;
+﻿using Microsoft.AspNetCore.Mvc;
+using MySql.Data.MySqlClient;
 using Projeto3.Models;
 using Projeto3.Repository.Contract;
 using System.Data;
@@ -21,7 +22,13 @@ namespace Projeto3.Repository
                 MySqlCommand cmd = new MySqlCommand("Update usuario set nomeUsu=@nomeUsu, Cargo=@Cargo, " +
                     " DataNasc=@DataNasc Where IdUsu=@IdUsu", conexao);
 
-                cmd.
+                cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
+                cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
+                cmd.Parameters.Add("@DataNasc", MySqlDbType.VarChar).Value = usuario.DataNasc.ToString("yyyy/MM/dd");
+                cmd.Parameters.Add("@IdUSu", MySqlDbType.VarChar).Value = usuario.IdUsu; 
+
+                cmd.ExecuteNonQuery();
+                conexao.Close();
             }
         }
 
@@ -45,8 +52,17 @@ namespace Projeto3.Repository
 
         public void Excluir(int Id)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQl))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("delete from usuario where IdUsu=@IdUsu", conexao);
+                cmd.Parameters.AddWithValue("@IdUsu", Id);
+                int i = cmd.ExecuteNonQuery();
+                conexao.Close();
+            }
         }
+
+       
 
         public IEnumerable<Usuario> ObterTodosUsuarios()
         {

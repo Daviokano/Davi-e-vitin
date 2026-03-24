@@ -1,4 +1,5 @@
-﻿using Projeto3.Models;
+﻿using Microsoft.AspNetCore.Mvc;
+using Projeto3.Models;
 
 namespace Projeto3.Repository.Contract
 {
@@ -13,5 +14,6 @@ namespace Projeto3.Repository.Contract
         Usuario ObterUsuario(int Id);
 
         void Excluir(int Id);
+        
     }
 }
