@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\repository\\enderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\repository\\usuarioreposytorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\repository\\usuarioreposytorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\repository\\contract\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\repository\\contract\\ienderecorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\projeto3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\projeto3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|c:\\users\\w10\\downloads\\davi-e-vitin\\projeto3\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3089A1BA-5FD2-464E-95D9-49C0E602D8E0}|Projeto3\\Projeto3.csproj|solutionrelative:projeto3\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Projeto3\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Projeto3\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-30T16:50:35.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Projeto3\\Views\\Endereco\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeToolTip": "Projeto3\\Views\\Endereco\\Cadastrar.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T16:47:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Projeto3\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:46:20.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "Projeto3\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:13:57.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Projeto3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Projeto3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T08:46:20.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\EnderecoRepository.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Repository\\EnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\EnderecoRepository.cs",
+              "RelativeToolTip": "Projeto3\\Repository\\EnderecoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:51:58.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Endereco\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto3\\Views\\Endereco\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Endereco\\Index.cshtml",
+              "RelativeToolTip": "Projeto3\\Views\\Endereco\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T16:42:55.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioReposytorio.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\UsuarioReposytorio.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Repository\\UsuarioReposytorio.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\UsuarioReposytorio.cs",
+              "RelativeToolTip": "Projeto3\\Repository\\UsuarioReposytorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:46:20.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Program.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Program.cs",
+              "RelativeToolTip": "Projeto3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:46:20.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "Projeto3\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T16:12:57.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEnderecoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\Contract\\IEnderecoRepository.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Repository\\Contract\\IEnderecoRepository.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\Contract\\IEnderecoRepository.cs",
+              "RelativeToolTip": "Projeto3\\Repository\\Contract\\IEnderecoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:55:30.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Projeto3\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:46:20.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\appsettings.json",
+              "RelativeDocumentMoniker": "Projeto3\\appsettings.json",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\appsettings.json",
+              "RelativeToolTip": "Projeto3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T08:46:20.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Models\\Usuario.cs",
+              "RelativeToolTip": "Projeto3\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:46:20.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Projeto3\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Models\\Endereco.cs",
+              "RelativeToolTip": "Projeto3\\Models\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:47:06.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Projeto3.csproj",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Projeto3.csproj",
+              "RelativeDocumentMoniker": "Projeto3\\Projeto3.csproj",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Projeto3.csproj",
+              "RelativeToolTip": "Projeto3\\Projeto3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T08:50:09.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalhesUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeDocumentMoniker": "Projeto3\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeToolTip": "Projeto3\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T08:46:20.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AtualizarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeDocumentMoniker": "Projeto3\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeToolTip": "Projeto3\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T08:46:20.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto3\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Projeto3\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T08:46:20.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "Projeto3\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\W10\\Downloads\\Davi-e-vitin\\Projeto3\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "Projeto3\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T08:46:20.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
