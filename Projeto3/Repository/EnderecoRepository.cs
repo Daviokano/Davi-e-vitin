@@ -94,7 +94,7 @@ namespace Projeto3.Repository
                             Estado = Convert.ToString(dr["Estado"]),
                             Cidade = Convert.ToString(dr["Cidade"]),
                             Bairro = Convert.ToString(dr["Bairro"]),
-                            Logradouro = Convert.ToString(dr["Endereco"]),
+                            Logradouro = Convert.ToString(dr["Logradouro"]),
                             Complemento = Convert.ToString(dr["Complemento"]),
                             Numero = Convert.ToString(dr["Numero"])
                         });
